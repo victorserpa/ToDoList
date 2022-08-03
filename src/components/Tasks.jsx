@@ -14,6 +14,7 @@ export function TasksStack({ content, onDeleteTask }) {
       <div className={styles.stack}>
         <input 
         type="checkbox"
+        id="checkbox"
         />
         <p>{content}</p>
         <div>
