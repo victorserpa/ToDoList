@@ -1,0 +1,21 @@
+.header {
+  background: var(--gray-700);
+  display: flex;
+  justify-content: center;
+  padding: 2.5rem 0;
+  align-items: center;
+  font-size: 3rem;
+}
+
+.header img {
+margin: 0.875rem;
+}
+
+.header strong {
+  color: var(--blue);
+}
+
+.header p {
+  color: var(--blue-dark);
+  font-weight: bold;
+}
